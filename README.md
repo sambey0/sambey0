@@ -1,8 +1,6 @@
 <!-- Profile README for sambey04 / Samarth Batra -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding gif" />
-</p>
+
 
 <h2 align="center">Hi, I’m Samarth Batra 👋</h2>
 <p align="center">
@@ -14,8 +12,6 @@
   <a href="https://www.batrasamarth.com">Website</a> •
   <a href="mailto:samarth.batra@stonybrook.edu">Email</a>
 </p>
-
----
 
 ### About me
 - 🔭 Former **Software Developer @ Amazon** (backend services, APIs, performance/reliability)
